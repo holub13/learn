@@ -1,0 +1,1 @@
+export const isCheckPassRep = (valPass, valPassRep) => valPass === valPassRep

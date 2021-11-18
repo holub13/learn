@@ -1,0 +1,25 @@
+.Log {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    text-shadow: 3px 3px 5px gray;
+    background-color: #f89d52;
+  }
+  form {
+    border-radius: 15px;
+    padding: 15px;
+  }
+  input {
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 15px gray;
+  }
+  button {
+    margin-bottom: 15px;
+    width: 100%;
+    box-shadow: 0px 0px 15px gray;
+  }
+  

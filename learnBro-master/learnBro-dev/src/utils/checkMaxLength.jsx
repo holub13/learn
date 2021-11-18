@@ -1,0 +1,1 @@
+export const isCheckMaxLength = (val, max) => val.length < max

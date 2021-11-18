@@ -1,0 +1,27 @@
+.Reg {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    text-shadow: 3px 3px 5px gray;
+    background-color: #64f1d3;
+  }
+  form {
+    border-radius: 15px;
+    padding: 15px;
+  }
+  input {
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 15px gray;
+  }
+  button {
+    width: 100%;
+    box-shadow: 0px 0px 15px gray;
+  }
+.isValid {
+  border: 1px solid darkred;
+}
+  
